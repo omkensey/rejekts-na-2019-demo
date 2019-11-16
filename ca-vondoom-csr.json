@@ -1,0 +1,15 @@
+{
+  "CN": "Victor von Doom",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "LE",
+      "L": "Doomstadt",
+      "O": "Lethal Legion",
+      "OU": "Procurement"
+    }
+  ]
+}

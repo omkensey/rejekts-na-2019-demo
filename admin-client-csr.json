@@ -1,0 +1,16 @@
+{
+  "CN": "not_the_admin",
+  "key": {
+    "algo": "rsa",
+    "size": 2048
+  },
+  "names": [
+    {
+      "C": "US",
+      "L": "San Diego",
+      "O": "system:not_masters",
+      "OU": "TLS debug demo",
+      "ST": "California"
+    }
+  ]
+}
